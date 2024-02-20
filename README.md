@@ -1,6 +1,4 @@
-Sure, here's a README template that explains the code you've provided:
 
----
 
 # Movie Recommendation System
 
